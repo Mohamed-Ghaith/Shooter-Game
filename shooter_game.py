@@ -1,7 +1,7 @@
 from pygame import *
 from random import randint
 from time import time as timer
-
+# this is a new commit/change
 lost = 0
 
 class GameSprite(sprite.Sprite):
